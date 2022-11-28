@@ -1,0 +1,4 @@
+yup
+typeorm
+typescript
+yarn
