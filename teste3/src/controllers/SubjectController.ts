@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import { SubjectRepository } from "../repositories/SubjectRepositoriy";
+import { SubjectRepository } from "../repositories/SubjectRepository";
 
 export class SubjectController{
     async create(req: Request,res: Response){
